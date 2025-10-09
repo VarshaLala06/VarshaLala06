@@ -22,6 +22,7 @@
 🚀 Building full-stack apps using **Flask**, **React Native**, **APIs** and **MySQL**.  
 📈 Constantly learning, building, and pushing code that makes a difference.  
 🌱 Currently learning **Deep Learning** and **Cloud Deployment**.  
+**Connect with me : varshalala2012@gmail.com**
 
 ---
 
