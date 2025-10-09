@@ -6,7 +6,7 @@
 </h1>
 
 <h3 align="center">
-  💻 B.Tech CSE Student | Python Full Stack Developer | Deep Learning Enthusiast  
+  💻 B.Tech CSE Student | Python Full Stack Developer | Machine Learning Enthusiast  
 </h3>
 
 <p align="center">
