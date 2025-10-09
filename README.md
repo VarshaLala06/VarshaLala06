@@ -25,6 +25,12 @@
 
 ---
 
+<!-- SECOND GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Developer GIF"/>
+</p>
+---
+
 ## ⚙️ Tech Stack & Tools  
 
 <p align="center">
@@ -105,5 +111,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I+love+building+AI+%26+Full+Stack+Projects!;Always+Learning%2C+Always+Growing!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F5276C&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I+love+building+AI+%26+Full+Stack+Projects!;Always+Learning%2C+Always+Growing!"/>
 </p>
