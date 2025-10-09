@@ -6,7 +6,7 @@
 </h1>
 
 <h3 align="center">
-  💻 B.Tech CSE Student | Python Full Stack Developer | Machine Learning Enthusiast  
+  💻 B.Tech CSE Student | Full Stack Developer | Machine Learning Enthusiast  
 </h3>
 
 <p align="center">
@@ -91,7 +91,7 @@
   <a href="https://github.com/VarshaLala06" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/varshalala" target="_blank">
+  <a href="www.linkedin.com/in/varsha-lala/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:varshalala2012@gmail.com" target="_blank">
