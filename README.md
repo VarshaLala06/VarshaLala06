@@ -65,6 +65,7 @@
 
 ### 🚗 GiriBazar – Grocery & Daily Essentials App
 > A multilingual mobile application for managing grocery products, orders, and user authentication.
+
 **Tech Used:** React Native, Flask, i18next, Expo, MySQL  
 
 ---
