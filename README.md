@@ -63,13 +63,9 @@
 > A deep learning-based project for predicting diseases from bio-signals using TensorFlow and Flask.  
 **Tech Used:** Python, TensorFlow, Flask, NumPy, Matplotlib, MySQL  
 
-### 📊 Expense Tracker App
-> A React Native + Flask app for managing expenses with category filters and monthly insights.  
-**Tech Used:** React Native, Flask, MySQL, Recharts  
-
-### 🚗 Vehicle & Inventory Management App
-> A multilingual mobile app with login, tab navigation, and analytics.  
-**Tech Used:** React Native, Flask, i18next, MySQL  
+### 🚗 GiriBazar – Grocery & Daily Essentials App
+> A multilingual mobile application for managing grocery products, orders, and user authentication.
+**Tech Used:** React Native, Flask, i18next, Expo, MySQL  
 
 ---
 
